@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**engorgedspirit/engorgedspirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on UI/UX, Full Stack Development
 - 🌱 I’m currently learning MongoDB, Framer
 - 👯 I’m looking to collaborate on UI/UX
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
